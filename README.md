@@ -13,7 +13,7 @@
   :mailbox:</g-emoji> How to reach me:
  <a href="https://www.linkedin.com/in/Vanshika-kaushik-30ba58123/" target="_blank" rel="nofollow">
    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin" width="13" height="13"/></a></li>
-  <li>:man: Pronouns: He/Him/His</li>
+  <li>:man: Pronouns: She/Her</li>
 
   
   <li>:fire: Portfolio: <a href="https://www.crio.do/learn/portfolio/kaushik-vanshika1999/"  target="_blank" >visit</a></li>
