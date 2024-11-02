@@ -8,7 +8,7 @@
  
 ---
   ## About me
-<li>:iphone: Android Engineer </li>
+<li>:iphone: Software Developer </li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">
   :mailbox:</g-emoji> How to reach me:
  <a href="https://www.linkedin.com/in/Vanshika-kaushik-30ba58123/" target="_blank" rel="nofollow">
