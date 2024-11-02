@@ -21,7 +21,7 @@
  <a href="https://www.linkedin.com/in/Vanshika-kaushik-30ba58123/" target="_blank" rel="nofollow">
    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin" width="13" height="13"/></a></li>
   <li>:man: Pronouns: He/Him/His</li>
- <li>:receipt: Resume: <a href="https://drive.google.com/file/d/1K0Z-t-2wTpWdrDJOjWU8IVCcozSDjb0f/view">view</a></li>
+
   
   <li>:fire: Portfolio: <a href="https://www.crio.do/learn/portfolio/kaushik-vanshika1999/"  target="_blank" >visit</a></li>
  <li>:fire: LinkedIn: <a href="https://www.linkedin.com/in/vanshika-kaushik-b865a6279/"  target="_blank" >visit</a></li>
@@ -35,10 +35,7 @@
 
 ---
 
-![Amol's GitHub statistics](https://github-readme-stats.vercel.app/api?username=happysiddharth&show_icons=true&theme=chartreuse-dark)
 
-
-![Amol's github activity graph](https://activity-graph.herokuapp.com/graph?username=happysiddharth&theme=dracula)
 
 <!---
 vanshikaaa19/vanshikaaa19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
