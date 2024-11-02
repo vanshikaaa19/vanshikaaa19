@@ -23,8 +23,8 @@
   <li>:man: Pronouns: He/Him/His</li>
  <li>:receipt: Resume: <a href="https://drive.google.com/file/d/1K0Z-t-2wTpWdrDJOjWU8IVCcozSDjb0f/view">view</a></li>
   
-  <li>:fire: Portfolio: <a href="https://siddharth-portfolio-1.netlify.app/"  target="_blank" >visit</a></li>
- <li>:fire: LinkedIn: <a href="https://www.linkedin.com/in/siddharth-kaushik-30ba58123/"  target="_blank" >visit</a></li>
+  <li>:fire: Portfolio: <a href="https://www.crio.do/learn/portfolio/kaushik-vanshika1999/"  target="_blank" >visit</a></li>
+ <li>:fire: LinkedIn: <a href="https://www.linkedin.com/in/vanshika-kaushik-b865a6279/"  target="_blank" >visit</a></li>
 </ul>
 
 
